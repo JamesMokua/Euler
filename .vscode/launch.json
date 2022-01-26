@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Smallestmultiple",
+            "request": "launch",
+            "mainClass": "Smallestmultiple",
+            "projectName": "java_8e789dda"
+        },
+        {
+            "type": "java",
             "name": "Launch Palindrome",
             "request": "launch",
             "mainClass": "Palindrome",
